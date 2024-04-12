@@ -44,6 +44,7 @@
 		BFE1ADD52BC9BFD7005E0F21 /* ChatPrototypeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChatPrototypeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFE1ADD92BC9BFD7005E0F21 /* ChatPrototypeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatPrototypeUITests.swift; sourceTree = "<group>"; };
 		BFE1ADDB2BC9BFD7005E0F21 /* ChatPrototypeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatPrototypeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BFE1ADE82BC9C05B005E0F21 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		BFE1ADB22BC9BFD5005E0F21 = {
 			isa = PBXGroup;
 			children = (
+				BFE1ADE82BC9C05B005E0F21 /* README.md */,
 				BFE1ADBD2BC9BFD5005E0F21 /* ChatPrototype */,
 				BFE1ADCE2BC9BFD7005E0F21 /* ChatPrototypeTests */,
 				BFE1ADD82BC9BFD7005E0F21 /* ChatPrototypeUITests */,
